@@ -163,7 +163,7 @@ http://89.136.209.26:1935/liveedge/TVRCRAIOVA.stream/playlist.m3u8
 http://89.136.209.26:1935/liveedge/TVRHD.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TVR HD RO" tvg-name="TVR HD RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/ouVOW2q.png" tvg-country="RO" tvg-url="http://195.154.221.171/epg/guideromania.xml.gz" group-title="",TVR HD
 http://89.136.209.26:1935/liveedge/TVRHD.stream/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1,tvg-id="Digi 24 HD" tvg-name="Digi 24 HD" tvg-country="RO" tvg-url="http://195.154.221.171/epg/guideromania.xml.gz" group-title="",TVR HD
+#EXTINF:-1,tvg-id="Digi 24 HD" tvg-name="Digi 24 HD" tvg-country="RO" tvg-url="http://195.154.221.171/epg/guideromania.xml.gz" group-title="",Digi 24 HD
 http://super1.ideaiptv.com:8090/Unplugged/66122/21404
 #EXTINF:-1 tvg-id="U TV RO" tvg-name="U TV RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/n0fNQkb.png" tvg-country="RO" tvg-url="http://195.154.221.171/epg/guideromania.xml.gz" group-title="Music",UTV
 http://81.196.0.126/utvedge/utvlive/playlist.m3u8
